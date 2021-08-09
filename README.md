@@ -1,4 +1,1 @@
-# my-mca-project-National-Cricket-pro
-# my-mca-project-National-Cricket-pro
-# my-mca-project-National-Cricket-pro
-# my-mca-project-National-Cricket-pro
+HTML CSS JS IMG PHP AND SQL
